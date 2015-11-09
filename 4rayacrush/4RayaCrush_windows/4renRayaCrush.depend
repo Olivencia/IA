@@ -1,0 +1,641 @@
+# depslib dependency file v1.0
+1430477552 source:c:\users\raul\downloads\4raya_windows\conexion.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	"conexion.h"
+
+1430474348 c:\users\raul\downloads\4raya_windows\conexion.h
+	<winsock2.h>
+
+1430472437 source:c:\users\raul\downloads\4raya_windows\environment.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<string>
+	"stdlib.h"
+	"environment.h"
+	"include/GL/glui.h"
+
+1430472430 c:\users\raul\downloads\4raya_windows\environment.h
+	<string>
+	<fstream>
+
+1208858522 c:\users\raul\downloads\4raya_windows\include\gl\glui.h
+	"openglut.h"
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1207922190 c:\users\raul\downloads\4raya_windows\include\gl\openglut.h
+	"openglut_std.h"
+	"openglut_ext.h"
+
+1208460342 c:\users\raul\downloads\4raya_windows\include\gl\openglut_std.h
+	<windows.h>
+	"gl.h"
+	"glu.h"
+
+1107063320 c:\users\raul\downloads\4raya_windows\include\gl\gl.h
+
+1208460414 c:\users\raul\downloads\4raya_windows\include\gl\glu.h
+	<stddef.h>
+	"gl.h"
+
+1207922190 c:\users\raul\downloads\4raya_windows\include\gl\openglut_ext.h
+
+1152200576 source:c:\users\raul\downloads\4raya_windows\include\glui.cpp
+	"glui_internal_control.h"
+
+1152201212 c:\users\raul\downloads\4raya_windows\include\glui_internal_control.h
+	"GL/glui.h"
+	"glui_internal.h"
+
+1120528640 c:\users\raul\downloads\4raya_windows\include\glui_internal.h
+	<cstdio>
+	<cmath>
+
+1152200576 source:c:\users\raul\downloads\4raya_windows\include\glui_bitmap_img_data.cpp
+
+1152200576 source:c:\users\raul\downloads\4raya_windows\include\glui_bitmaps.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<cassert>
+
+1152200576 source:c:\users\raul\downloads\4raya_windows\include\glui_button.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\raul\downloads\4raya_windows\include\glui_column.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\raul\downloads\4raya_windows\include\glui_control.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\raul\downloads\4raya_windows\include\glui_edittext.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1240413832 source:c:\users\raul\downloads\4raya_windows\include\glui_filebrowser.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<sys/types.h>
+	<dirent.h>
+	<unistd.h>
+	<windows.h>
+	<sys/stat.h>
+	<iostream>
+
+1152200576 source:c:\users\raul\downloads\4raya_windows\include\glui_list.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<sys/timeb.h>
+
+1120535008 source:c:\users\raul\downloads\4raya_windows\include\glui_node.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1208456570 source:c:\users\raul\downloads\4raya_windows\include\glui_panel.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\raul\downloads\4raya_windows\include\glui_radio.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1152200576 source:c:\users\raul\downloads\4raya_windows\include\glui_rollout.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\raul\downloads\4raya_windows\include\glui_scrollbar.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\users\raul\downloads\4raya_windows\include\glui_spinner.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\users\raul\downloads\4raya_windows\include\glui_statictext.cpp
+	"glui_internal_control.h"
+
+1120535008 source:c:\users\raul\downloads\4raya_windows\include\glui_string.cpp
+	"GL/glui.h"
+	<stdarg.h>
+
+1120535008 source:c:\users\raul\downloads\4raya_windows\include\glui_window.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1401648199 source:c:\users\raul\downloads\4raya_windows\main.cpp
+	"GUI.h"
+
+1430127082 c:\users\raul\downloads\4raya_windows\gui.h
+	<fstream>
+	"include/GL/glui.h"
+
+1430307844 source:c:\users\raul\downloads\4raya_windows\player.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<queue>
+	"player.h"
+	"environment.h"
+
+1401648199 c:\users\raul\downloads\4raya_windows\player.h
+	"environment.h"
+
+1430477502 source:c:\users\raul\downloads\4raya_windows\gui.cpp
+	<fstream>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<string>
+	"GUI.h"
+	<stdlib.h>
+	"environment.h"
+	"player.h"
+	"conexion.h"
+
+1430832388 source:c:\users\raul\downloads\4rayacrush_windows\conexion.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	"conexion.h"
+
+1430474348 c:\users\raul\downloads\4rayacrush_windows\conexion.h
+	<winsock2.h>
+
+1430682855 source:c:\users\raul\downloads\4rayacrush_windows\environment.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<string>
+	"stdlib.h"
+	"environment.h"
+	"include/GL/glui.h"
+
+1430472430 c:\users\raul\downloads\4rayacrush_windows\environment.h
+	<string>
+	<fstream>
+
+1208858522 c:\users\raul\downloads\4rayacrush_windows\include\gl\glui.h
+	"openglut.h"
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1207922190 c:\users\raul\downloads\4rayacrush_windows\include\gl\openglut.h
+	"openglut_std.h"
+	"openglut_ext.h"
+
+1208460342 c:\users\raul\downloads\4rayacrush_windows\include\gl\openglut_std.h
+	<windows.h>
+	"gl.h"
+	"glu.h"
+
+1107063320 c:\users\raul\downloads\4rayacrush_windows\include\gl\gl.h
+
+1208460414 c:\users\raul\downloads\4rayacrush_windows\include\gl\glu.h
+	<stddef.h>
+	"gl.h"
+
+1207922190 c:\users\raul\downloads\4rayacrush_windows\include\gl\openglut_ext.h
+
+1430832321 source:c:\users\raul\downloads\4rayacrush_windows\gui.cpp
+	<fstream>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<string>
+	"GUI.h"
+	<stdlib.h>
+	"environment.h"
+	"player.h"
+	"conexion.h"
+
+1430127082 c:\users\raul\downloads\4rayacrush_windows\gui.h
+	<fstream>
+	"include/GL/glui.h"
+
+1401648199 c:\users\raul\downloads\4rayacrush_windows\player.h
+	"environment.h"
+
+1152200576 source:c:\users\raul\downloads\4rayacrush_windows\include\glui.cpp
+	"glui_internal_control.h"
+
+1152201212 c:\users\raul\downloads\4rayacrush_windows\include\glui_internal_control.h
+	"GL/glui.h"
+	"glui_internal.h"
+
+1120528640 c:\users\raul\downloads\4rayacrush_windows\include\glui_internal.h
+	<cstdio>
+	<cmath>
+
+1152200576 source:c:\users\raul\downloads\4rayacrush_windows\include\glui_bitmap_img_data.cpp
+
+1152200576 source:c:\users\raul\downloads\4rayacrush_windows\include\glui_bitmaps.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<cassert>
+
+1152200576 source:c:\users\raul\downloads\4rayacrush_windows\include\glui_button.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\raul\downloads\4rayacrush_windows\include\glui_column.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\raul\downloads\4rayacrush_windows\include\glui_control.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\raul\downloads\4rayacrush_windows\include\glui_edittext.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1240413832 source:c:\users\raul\downloads\4rayacrush_windows\include\glui_filebrowser.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<sys/types.h>
+	<dirent.h>
+	<unistd.h>
+	<windows.h>
+	<sys/stat.h>
+	<iostream>
+
+1152200576 source:c:\users\raul\downloads\4rayacrush_windows\include\glui_list.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<sys/timeb.h>
+
+1120535008 source:c:\users\raul\downloads\4rayacrush_windows\include\glui_node.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1208456570 source:c:\users\raul\downloads\4rayacrush_windows\include\glui_panel.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\raul\downloads\4rayacrush_windows\include\glui_radio.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1152200576 source:c:\users\raul\downloads\4rayacrush_windows\include\glui_rollout.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\raul\downloads\4rayacrush_windows\include\glui_scrollbar.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\users\raul\downloads\4rayacrush_windows\include\glui_spinner.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\users\raul\downloads\4rayacrush_windows\include\glui_statictext.cpp
+	"glui_internal_control.h"
+
+1120535008 source:c:\users\raul\downloads\4rayacrush_windows\include\glui_string.cpp
+	"GL/glui.h"
+	<stdarg.h>
+
+1120535008 source:c:\users\raul\downloads\4rayacrush_windows\include\glui_window.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1401648199 source:c:\users\raul\downloads\4rayacrush_windows\main.cpp
+	"GUI.h"
+
+1430307844 source:c:\users\raul\downloads\4rayacrush_windows\player.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<queue>
+	"player.h"
+	"environment.h"
+
+1430835988 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\conexion.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	"conexion.h"
+
+1430477948 c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\conexion.h
+	<winsock2.h>
+
+1430686455 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\environment.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<string>
+	"stdlib.h"
+	"environment.h"
+	"include/GL/glui.h"
+
+1430476030 c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\environment.h
+	<string>
+	<fstream>
+
+1208862122 c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\gl\glui.h
+	"openglut.h"
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1207925790 c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\gl\openglut.h
+	"openglut_std.h"
+	"openglut_ext.h"
+
+1208463942 c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\gl\openglut_std.h
+	<windows.h>
+	"gl.h"
+	"glu.h"
+
+1107063320 c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\gl\gl.h
+
+1208464014 c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\gl\glu.h
+	<stddef.h>
+	"gl.h"
+
+1207925790 c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\gl\openglut_ext.h
+
+1430835921 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\gui.cpp
+	<fstream>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<string>
+	"GUI.h"
+	<stdlib.h>
+	"environment.h"
+	"player.h"
+	"conexion.h"
+
+1430130682 c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\gui.h
+	<fstream>
+	"include/GL/glui.h"
+
+1432241644 c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\player.h
+	"environment.h"
+
+1152204176 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\glui.cpp
+	"glui_internal_control.h"
+
+1152204812 c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\glui_internal_control.h
+	"GL/glui.h"
+	"glui_internal.h"
+
+1120532240 c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\glui_internal.h
+	<cstdio>
+	<cmath>
+
+1152204176 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\glui_bitmap_img_data.cpp
+
+1152204176 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\glui_bitmaps.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<cassert>
+
+1152204176 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\glui_button.cpp
+	"glui_internal_control.h"
+
+1152204176 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\glui_column.cpp
+	"glui_internal_control.h"
+
+1152204176 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\glui_control.cpp
+	"glui_internal_control.h"
+
+1152204176 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\glui_edittext.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1240417432 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\glui_filebrowser.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<sys/types.h>
+	<dirent.h>
+	<unistd.h>
+	<windows.h>
+	<sys/stat.h>
+	<iostream>
+
+1152204176 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\glui_list.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<sys/timeb.h>
+
+1120538608 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\glui_node.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1208460170 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\glui_panel.cpp
+	"glui_internal_control.h"
+
+1152204176 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\glui_radio.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1152204176 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\glui_rollout.cpp
+	"glui_internal_control.h"
+
+1152204176 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\glui_scrollbar.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152204176 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\glui_spinner.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152204176 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\glui_statictext.cpp
+	"glui_internal_control.h"
+
+1120538608 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\glui_string.cpp
+	"GL/glui.h"
+	<stdarg.h>
+
+1120538608 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\include\glui_window.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1401651799 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\main.cpp
+	"GUI.h"
+
+1432242578 source:c:\users\cristobal\dropbox\universidad\en curso\inteligencia artificial\prácticas\práctica 3\4rayacrush_windows\player.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<queue>
+	"player.h"
+	"environment.h"
+
+1430832388 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\conexion.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	"conexion.h"
+
+1430474348 c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\conexion.h
+	<winsock2.h>
+
+1430682855 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\environment.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<string>
+	"stdlib.h"
+	"environment.h"
+	"include/GL/glui.h"
+
+1430472430 c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\environment.h
+	<string>
+	<fstream>
+
+1208858522 c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\gl\glui.h
+	"openglut.h"
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1207922190 c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\gl\openglut.h
+	"openglut_std.h"
+	"openglut_ext.h"
+
+1208460342 c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\gl\openglut_std.h
+	<windows.h>
+	"gl.h"
+	"glu.h"
+
+1107059720 c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\gl\gl.h
+
+1208460414 c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\gl\glu.h
+	<stddef.h>
+	"gl.h"
+
+1207922190 c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\gl\openglut_ext.h
+
+1430832321 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\gui.cpp
+	<fstream>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<string>
+	"GUI.h"
+	<stdlib.h>
+	"environment.h"
+	"player.h"
+	"conexion.h"
+
+1430127082 c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\gui.h
+	<fstream>
+	"include/GL/glui.h"
+
+1432238044 c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\player.h
+	"environment.h"
+
+1152200576 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\glui.cpp
+	"glui_internal_control.h"
+
+1152201212 c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\glui_internal_control.h
+	"GL/glui.h"
+	"glui_internal.h"
+
+1120528640 c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\glui_internal.h
+	<cstdio>
+	<cmath>
+
+1152200576 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\glui_bitmap_img_data.cpp
+
+1152200576 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\glui_bitmaps.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<cassert>
+
+1152200576 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\glui_button.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\glui_column.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\glui_control.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\glui_edittext.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1240413832 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\glui_filebrowser.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<sys/types.h>
+	<dirent.h>
+	<unistd.h>
+	<windows.h>
+	<sys/stat.h>
+	<iostream>
+
+1152200576 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\glui_list.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<sys/timeb.h>
+
+1120535008 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\glui_node.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1208456570 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\glui_panel.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\glui_radio.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1152200576 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\glui_rollout.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\glui_scrollbar.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\glui_spinner.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\glui_statictext.cpp
+	"glui_internal_control.h"
+
+1120535008 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\glui_string.cpp
+	"GL/glui.h"
+	<stdarg.h>
+
+1120535008 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\include\glui_window.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1401648199 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\main.cpp
+	"GUI.h"
+
+1432238978 source:c:\users\cristobal\dropbox\proyectos\ia\4rayacrush\4rayacrush_windows\player.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<queue>
+	"player.h"
+	"environment.h"
+
