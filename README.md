@@ -2,9 +2,9 @@
 
 Aquí se pueden consultar el código de las prácticas de Inteligencia Artificial de la UGR:
 
-Práctica 1 - Perro trufero
+Práctica 2 - Perro trufero
 
-Práctica 2 - 4 en Raya Crush
+Práctica 3 - 4 en Raya Crush
 
 Dentro de cada proyecto se explicará que es lo que se realiza en ellas.
 
